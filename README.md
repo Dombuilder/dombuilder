@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm currently studying philosophy and digital Humanities.
-I'm working on a collaborative Minecraft Minigame Plugin.
-I'm trying to learn more about Coding.
+I'm currently studying philosophy and digital Humanities. <br>
+I'm working on a collaborative Minecraft Minigame Plugin. <br>
+I'm trying to learn more about Coding. <br>
 
 <!--
 **Dombuilder/dombuilder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
